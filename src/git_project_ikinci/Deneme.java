@@ -8,6 +8,7 @@ public class Deneme {
 		System.out.println("remote degisiklik");
 		System.out.println("remote ikinci degisiklik");
 		System.out.println("adnan");
+		System.out.println("cakisma oguzhan");
 	}
 
 }
