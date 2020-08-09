@@ -4,7 +4,7 @@ public class Deneme {
 
 	public static void main(String[] args) {
 		System.out.println("ikinci git projem.");
-		System.out.println("ikinci git projem 2 satýr.");
+		System.out.println("ikinci git projem 2 satir.");
 
 	}
 
