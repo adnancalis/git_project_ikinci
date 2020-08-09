@@ -6,6 +6,7 @@ public class Deneme {
 		System.out.println("ikinci git projem.");
 		System.out.println("ikinci git projem 2 satir.");
 		System.out.println("remote degisiklik");
+		System.out.println("remote ikinci degisiklik");
 	}
 
 }
